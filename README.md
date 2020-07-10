@@ -4,7 +4,7 @@
 
   - Clean Architecture
   - Golang
-  - Flutter
+  - Microservices
   
 - 👯 I’m looking to collaborate on:
 
