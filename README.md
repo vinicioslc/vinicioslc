@@ -4,8 +4,8 @@
 
   - Clean Architecture
   - Golang
-  - Dart
   - Flutter
+  
 - 👯 I’m looking to collaborate on:
 
   - Nodejs, Dart and Typescript projects
