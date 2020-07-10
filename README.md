@@ -17,7 +17,7 @@
   - [I write stuffy in portuguese](https://medium.com/@vinicioslc)
 
 - 😄 Pronouns: 
-  - doesn't make me code.
+  - No matter, I solve problems.
 
 <!--
 **vinicioslc/vinicioslc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
