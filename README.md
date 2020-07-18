@@ -4,7 +4,6 @@
 
   - Clean Architecture
   - Golang
-  - Microservices
   
 - 👯 I’m looking to collaborate on:
 
