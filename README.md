@@ -27,13 +27,9 @@
 
 - 📫 How to reach me:
 
-  - [My curriculum](https://www.linkedin.com/vinicioslc)
+  - [Curriculum](https://www.linkedin.com/vinicioslc)
 
-  - [I write stuffy in portuguese](https://medium.com/@vinicioslc)
-
-- 😄 Sign: 
-  - Dinossaur.
-
+  - [Stuff written in portuguese](https://medium.com/@vinicioslc)
 
 <!--
 
