@@ -31,8 +31,8 @@
 
   - [I write stuffy in portuguese](https://medium.com/@vinicioslc)
 
-- 😄 Pronouns: 
-  - No matter, I solve problems.
+- 😄 Sign: 
+  - Dinossaur.
 
 
 <!--
