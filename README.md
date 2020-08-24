@@ -1,6 +1,9 @@
 ### Status
 
+
 ![Vinicios Clarindo github stats](https://github-readme-stats.vercel.app/api?username=vinicioslc&show_icons=true&theme=default)
+![Vinicios Clarindo github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicioslc&hide=html,rich%20text%20format&layout=compact)
+
 <hr>
 <div align="center">
  <br>
