@@ -15,16 +15,22 @@
 </div>
 
 ### Hi there 👋
+- Focus
+ - Flutter
+ - NodeJS (Restify, API's, WebServices, Integrations)
 
 - 🌱 I’m currently learning: 
 
   - Clean Architecture
-  - Golang
+  - AdonisJS
   
 - 👯 I’m looking to collaborate on:
 
   - Nodejs, Dart/Flutter and Typescript projects
 
+- ⚡ Experiences with:
+ - Legacy Systems
+ 
 - 📫 How to reach me:
 
   - [Curriculum](https://www.linkedin.com/vinicioslc)
