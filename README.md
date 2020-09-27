@@ -15,9 +15,9 @@
 </div>
 
 ### Hi there 👋
-- Focus
- - Flutter
- - NodeJS (Restify, API's, WebServices, Integrations)
+- Main
+  - Flutter (Dart, TDD, CI, CD)
+  - NodeJS (Restify, API's, WebServices, Legacy Integrations, Desktop Apps)
 
 - 🌱 I’m currently learning: 
 
