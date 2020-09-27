@@ -29,7 +29,7 @@
   - Nodejs, Dart/Flutter and Typescript projects
 
 - ⚡ Experiences with:
- - Legacy Systems
+  - Legacy Systems
  
 - 📫 How to reach me:
 
