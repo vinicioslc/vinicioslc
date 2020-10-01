@@ -1,7 +1,3 @@
-
-# Vinicios Clarindo
-<hr>
-
 ### Hi there 👋
 - Main
   - Flutter (Dart, TDD, CI, CD)
@@ -36,6 +32,7 @@
 <a href="https://open.spotify.com/user/12175899112" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 ![visited count](https://visitor-badge.laobi.icu/badge?page_id=vinicioslc)
 </div>
+
 <hr>
 
 ![Vinicios Clarindo github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicioslc&hide=html,rich%20text%20format&layout=compact)
