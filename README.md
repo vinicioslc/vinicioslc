@@ -30,7 +30,11 @@
 
 - ⚡ Experiences with:
   - Legacy Systems
- 
+  - Building Restful APIs
+  - Integration betwen desktop legacy system and service APIs 
+  - Queue's
+  - Flutter APPs with real-time notification and socket comunication.
+
 - 📫 How to reach me:
 
   - [Curriculum](https://www.linkedin.com/vinicioslc)
