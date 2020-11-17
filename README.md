@@ -43,10 +43,10 @@
     <table align="center">
       <tr>
           <td>
-            <img width="440px" align="center" src="https://github-readme-stats.vercel.app/api?username=victorLessa&count_private=true&hide_border=true" />
+            <img width="440px" align="center" src="https://github-readme-stats.vercel.app/api?username=vinicioslc&count_private=true&hide_border=true" />
           </td>
           <td>
-            <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorLessa&hide=html&layout=compact&count_private=true&hide_border=true" />               
+            <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicioslc&hide=html&layout=compact&count_private=true&hide_border=true" />               
           </td>
       </tr>  
     </table>
