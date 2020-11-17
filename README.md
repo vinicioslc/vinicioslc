@@ -1,5 +1,7 @@
-### Hi there 👋
-- Main
+### Hi there, Welcome to my Profile 👋
+
+- 🦾 Mainly Work
+
   - Flutter (Dart, TDD, CI, CD)
   - NodeJS (Restify, API's, WebServices, Legacy Integrations, Desktop Apps)
 
@@ -35,7 +37,21 @@
 
 <hr>
 
-![Vinicios Clarindo github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicioslc&hide=html,rich%20text%20format&layout=compact)
+<h3>Statistics</h3>
+
+<center>
+    <table align="center">
+      <tr>
+          <td>
+            <img width="440px" align="center" src="https://github-readme-stats.vercel.app/api?username=victorLessa&count_private=true&hide_border=true" />
+          </td>
+          <td>
+            <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorLessa&hide=html&layout=compact&count_private=true&hide_border=true" />               
+          </td>
+      </tr>  
+    </table>
+</center>
+
 
 <!--
 
