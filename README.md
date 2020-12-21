@@ -20,7 +20,7 @@
   - Building Restful APIs
   - Integration betwen desktop legacy system and service APIs 
   - Queue's
-  - Flutter APPs with real-time notification and socket comunication.
+  - Flutter APPs with real-time comunication.
 
 - 📫 How to reach me:
 
