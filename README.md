@@ -1,4 +1,6 @@
-### Hi there, Welcome to my Profile 👋
+### Welcome to my Profile 👋
+
+![Metrics](https://metrics.lecoq.io/vinicioslc)
 
 - 🦾 Mainly Work
 
@@ -38,9 +40,7 @@
 
 <hr>
 
-<h3>Statistics</h3>
-
-![Metrics](https://metrics.lecoq.io/vinicioslc)
+<h3>Language Statistics (Only Public Repos)</h3>
 
 <center>
     <table align="center">
