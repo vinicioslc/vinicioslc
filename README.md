@@ -40,12 +40,11 @@
 
 <h3>Statistics</h3>
 
+![Metrics](https://metrics.lecoq.io/vinicioslc)
+
 <center>
     <table align="center">
-      <tr>
-          <td>
-            <img width="440px" align="center" src="https://github-readme-stats.vercel.app/api?username=vinicioslc&count_private=true&hide_border=true" />
-          </td>
+      <tr
           <td>
             <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicioslc&hide=html,rich%20text%20format&layout=compact&count_private=true&hide_border=true" />               
           </td>
