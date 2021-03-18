@@ -4,14 +4,15 @@
 
 - 🦾 Mainly Work
 
-  - Flutter (Dart, TDD, CI, CD)
+  - Flutter
   - NodeJS (WebServices, Legacy Sys. Integrations, Data Integrations)
+  - AdonisJS
+  - VueJS
+  - CI/CD
 
 - 🌱 I’m currently learning: 
 
   - Clean Architecture
-  - AdonisJS
-  - VueJS
   
 - 👯 I’m looking to collaborate on:
 
