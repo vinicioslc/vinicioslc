@@ -1,5 +1,4 @@
-### Welcome to my Profile 👋
-
+### Welcome
 ![Metrics](https://metrics.lecoq.io/vinicioslc)
 
 - 🦾 Mainly Work
