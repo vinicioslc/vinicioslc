@@ -1,6 +1,4 @@
 ### Welcome
-![Metrics](https://metrics.lecoq.io/vinicioslc)
-
 - 🦾 Mainly Work
 
   - Flutter
@@ -35,7 +33,7 @@
 <a href="https://www.facebook.com/vinicioslc" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://twitter.com/vinicioslc" target="_blank"><img src="https://img.shields.io/badge/Twitter-%2303A9F4.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://open.spotify.com/user/12175899112" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-![visited count](https://visitor-badge.laobi.icu/badge?page_id=vinicioslc)
+<!-- ![visited count](https://visitor-badge.laobi.icu/badge?page_id=vinicioslc) -->
 </div>
 
 <hr>
