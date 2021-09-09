@@ -45,7 +45,7 @@
     </table>
 </center>
 
-### Tecnologies in production, that i allready touched
+### Tecnologies, that i allready touched
 
 
 **Languages**
