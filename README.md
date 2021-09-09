@@ -45,7 +45,7 @@
     </table>
 </center>
 
-### All what i had experience
+### Tecnologies in production, that i allready touched
 
 
 **Languages**
