@@ -1,5 +1,5 @@
-<!-- ### Welcome
-- 🦾 Mainly Work
+### Welcome, Maybe i can help you
+<!-- - 🦾 Mainly Work
   - Mobile
   - WebServices
   - Legacy Sys. Integrations
