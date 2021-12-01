@@ -87,6 +87,11 @@
 ![Windows XP](https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white)
 
 
+<div align="center">
+ <br>
+
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K424BR8)
+</div>
 <!--
 
 https://www.linkedin.com/vinicioslc
