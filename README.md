@@ -90,6 +90,10 @@
 
   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K424BR8)
 </div>
+
+[![@vinicioslc's Holopin board](https://holopin.me/vinicioslc)](https://holopin.io/@vinicioslc)
+
+
 <!--
 
 https://www.linkedin.com/vinicioslc
