@@ -30,7 +30,7 @@
 <!-- ![visited count](https://visitor-badge.laobi.icu/badge?page_id=vinicioslc) -->
 </div>
 
-<hr>
+<!-- <hr>
 
 <h3>Language Statistics (Only Public Repos)</h3>
 
@@ -42,7 +42,7 @@
           </td>
       </tr>  
     </table>
-</center>
+</center> -->
 
 <!-- ### Tecnologies, that i allready touched or work
 
@@ -90,10 +90,10 @@
 
   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K424BR8)
 </div>
-
+<!-- 
 [![@vinicioslc's Holopin board](https://holopin.me/vinicioslc)](https://holopin.io/@vinicioslc)
 
-
+ -->
 <!--
 
 https://www.linkedin.com/vinicioslc
