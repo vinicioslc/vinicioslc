@@ -90,6 +90,13 @@
 
   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K424BR8)
 </div>
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=vinicioslc&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
 <!-- 
 [![@vinicioslc's Holopin board](https://holopin.me/vinicioslc)](https://holopin.io/@vinicioslc)
 
