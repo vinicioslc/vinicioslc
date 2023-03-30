@@ -1,10 +1,12 @@
 ### Hi, how i can help you ?
-<!-- - 🦾 Mainly Work
+<!-- 
+- 🦾 Mainly Work
   - Mobile
   - WebServices
   - Legacy Sys. Integrations
   - Data Integrations
   - CI/CD
+
 
 - 👯 I’m looking to collaborate on:
 
@@ -15,18 +17,16 @@
   - Building Restful APIs
   - Integration betwen desktop legacy system and service APIs 
   - Queue's
-  - Flutter APPs with real-time comunication. -->
-
-- 📫 How to reach me:
-
+  - Flutter APPs with real-time comunication. 
+-->
 <div align="center">
- <br>
   
+📫 How to reach me:</br>
 <a href="https://www.linkedin.com/in/vinicioslc" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/vinicioslc" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://twitter.com/vinicioslc" target="_blank"><img src="https://img.shields.io/badge/Twitter-%2303A9F4.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 [![Email](https://img.shields.io/badge/Outlook-%230077B5.svg?&style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:vinicioslc@outlook.com)
-<!-- ![visited count](https://visitor-badge.laobi.icu/badge?page_id=vinicioslc) -->
+  
 </div>
 
 <!-- <hr>
@@ -107,3 +107,5 @@ https://www.linkedin.com/vinicioslc
 ![Windows XP](https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white)
 
 </div>
+
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=vinicioslc)
