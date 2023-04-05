@@ -43,13 +43,6 @@
     </table>
 </center> -->
 
-
-<div align="center">
- <br>
-
-  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K424BR8)
-</div>
-
 <div align="center">
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=vinicioslc&theme=nord&column=4&no-frame=true&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
@@ -115,6 +108,13 @@ https://www.linkedin.com/vinicioslc
 ![Windows 95](https://img.shields.io/badge/Windows%2095-008484?style=for-the-badge&logo=windows95&logoColor=white)
 ![Windows XP](https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white)
 
+</div>
+
+
+<div align="center">
+ <br>
+
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K424BR8)
 </div>
 
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=vinicioslc)
