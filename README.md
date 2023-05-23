@@ -21,6 +21,7 @@
 -->
 <div align="center">
   
+  
 📫 How to reach me:</br>
 <a href="https://www.linkedin.com/in/vinicioslc" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/vinicioslc" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
@@ -47,6 +48,14 @@
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=vinicioslc&theme=nord&column=4&no-frame=true&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
+  <details>
+  <summary>📈 Language Statistics</summary>
+  
+  <img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=vinicioslc"
+/>
+  
+</details>
 </div>
 
 <!-- 
@@ -61,8 +70,9 @@ https://www.linkedin.com/vinicioslc
 
 <div align="center">
 
-
-### The mainly active
+  <details>
+  <summary>📎 Active Tech </summary>
+  
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![AdonisJS 4 & 5](https://img.shields.io/badge/AdonisJS%204&5-470137?style=for-the-badge&logo=adonisjs&logoColor=#FF61F6)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -71,8 +81,13 @@ https://www.linkedin.com/vinicioslc
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 
-### Technologies, that already touched or work
+</details>
+    
+<div align="center">
 
+  <details>
+  <summary>📎 Allready touched technologies </summary>
+    
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
@@ -107,6 +122,7 @@ https://www.linkedin.com/vinicioslc
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Windows 95](https://img.shields.io/badge/Windows%2095-008484?style=for-the-badge&logo=windows95&logoColor=white)
 ![Windows XP](https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white)
+</details>
 
 </div>
 
